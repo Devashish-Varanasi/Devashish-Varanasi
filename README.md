@@ -31,8 +31,12 @@ I believe data tells stories — and I aim to make those stories clear, visual, 
 
 ## 📈 Featured Projects  
 
-### 🌾 [Crop Yield EDA](https://github.com/<your-username>/Crop_Yield_EDA)
+### [Crop Yield EDA](https://github.com/Devashish-Varanasi/Crop_Yield_EDA)
 Exploratory data analysis on Indian crop production dataset — discovered yield patterns, top-performing states, and insights for agriculture optimization.
+
+### [Automatic Helmet Detection](https://github.com/Devashish-Varanasi/Automatic-Helmet-Detection-and-Number-plate-Identification)
+
+Computer vision project leveraging deep learning to detect motorcyclists without helmets in real-time from video streams — aimed at enhancing road safety through automated surveillance and violation monitoring.
 
 
 ---
